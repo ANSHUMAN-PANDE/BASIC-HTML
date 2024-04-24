@@ -49,3 +49,78 @@ FIRST HTML CODE
 
     </BODY>
 </HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <STYLE>
+        TABLE,TR,TD{
+            BORDER: 1PX SOLID BLACK;
+            BORDER-COLLAPSE:COLLAPSE;
+        }
+    </STYLE>
+    <TABLE>
+        <TR>
+            <TD></TD>
+            <TD>MON</TD>
+            <TD>TUE</TD>
+            <TD>WED</TD>
+            <TD>THU</TD>
+            <TD>FRI</TD>
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD>SCIENCE</TD>
+            <TD>MATHS</TD>
+            <TD>HINDI</TD>
+            <TD>ENGLISH</TD>
+            <TD>URDU</TD>
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD>SST</TD>
+            <TD>HISTORY</TD>
+            <TD>ENGLISH</TD>
+            <TD>HINDI</TD>
+            <TD>MATH</TD>
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD ROWSPAIN="3">LUNCH</TD>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD>SCINCE</TD>
+            <TD>MATHS</TD>
+            <TD>SCIENCE</TD>
+            <TD>MATHS</TD>
+            <TD ROWSPAIN="2" COLSPAIN="2">PROJECT</TD>
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD>HISTORY</TD>
+            <TD>ENGLISH</TD>
+            <TD>HINDI</TD>
+            <TD>SST</TD>
+            
+        </TR>
+        <TR>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+            <TD></TD>
+        </TR>
+    </TABLE>
+    
+</body>
+</html>
