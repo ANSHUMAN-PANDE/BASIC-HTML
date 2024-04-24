@@ -124,3 +124,61 @@ FIRST HTML CODE
     
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<head>
+    <body>
+        <STYLE>
+            TABLE,TR,TD{
+                border:1PX SOLID BLACK;
+                BORDER-COLLAPSE: COLLAPSE;
+            }
+        </STYLE>
+        <table>
+            <COLGROUP>
+                <COL SPAN="3" STYLE="BACKGROUND-COLOR: AQUA">
+            </COLGROUP>
+            <tr>
+                <td ROWSPAN="2">status of health</td>
+                <td COLSPAN="2">fasting value</td>
+            
+                <td>after eating</td>
+            </tr>
+            <tr>
+                
+                <td>maximum</td>
+                <td>minimum</td>
+                <td>2 hrs of eating</td>
+
+            </tr>
+            <tr>
+                <td>HEALTHY</td>
+                <td>70</td>
+                <td>100</td>
+                <td>140</td>
+            </tr>
+            <tr>
+                <td>PRE DIABTIES</td>
+                <td>140</td>
+                <td>126</td>
+                <td>100</td>
+
+            </tr>
+            <tr>
+                <td>DIABITIES</td>
+                <td>MORE THAN 126</td>
+                <td>N/A</td>
+                <td>MORE THAN 120</td>
+            </tr>
+        </table>
+    </body>
+</head>
+
+
+        
+
+    
